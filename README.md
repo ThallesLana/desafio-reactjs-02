@@ -1,5 +1,7 @@
 # ✅ Desafio 02 - Rocketseat Ignite ReactJS - Componentizando a aplicação
 
+![Watch Me](https://user-images.githubusercontent.com/57325727/158611115-7e7bb716-11fe-4d4b-9b24-087ac6ba42de.png)
+
 ### Nesse desafio, foi necessário criar uma aplicação onde o seu principal objetivo é uma To-Do List para treinar um pouco mais sobre manipulação do estado no React.
 # ✅ Project Status:
 ### ✅ Componentizando a aplicação Rocketseat ✅ Challenge Current! ✅
