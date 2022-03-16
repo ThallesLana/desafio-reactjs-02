@@ -1,12 +1,6 @@
 # ✅ Desafio 02 - Rocketseat Ignite ReactJS - Componentizando a aplicação
 
 ### Nesse desafio, foi necessário criar uma aplicação onde o seu principal objetivo é uma To-Do List para treinar um pouco mais sobre manipulação do estado no React.
-### Abaixo é listado o que deve ser feito na tarefa:
-
-- Adicionar uma nova tarefa
-- Remover uma tarefa
-- Marcar e desmarcar uma tarefa como concluída
-
 # ✅ Project Status:
 ### ✅ Componentizando a aplicação Rocketseat ✅ Challenge Current! ✅
 
