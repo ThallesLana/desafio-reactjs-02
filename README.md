@@ -4,7 +4,7 @@
 
 ### Nesse desafio será desenvolvido uma aplicação onde o seu principal objetivo é refatorar uma página para listagem de filmes de acordo com gênero. 
 # ✅ Project Status:
-### ✅ Componentizando a aplicação Rocketseat ✅ Challenge Current! ✅
+### ✅ Componentizando a aplicação Rocketseat ✅ challenge completed! ✅
 
 # 💻 Languages and Tools used in the project:
 ![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
